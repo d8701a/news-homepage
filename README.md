@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://d8701a.github.io/news-homepage/)
+- Solution URL: ( https://d8701a.github.io/news-homepage/)
 
 ## My process
 
